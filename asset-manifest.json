@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AnimatedSorter/static/css/main.5fbb40f9.css",
-    "main.js": "/AnimatedSorter/static/js/main.e8b9fc19.js",
-    "static/js/453.36933aed.chunk.js": "/AnimatedSorter/static/js/453.36933aed.chunk.js",
-    "index.html": "/AnimatedSorter/index.html",
-    "main.5fbb40f9.css.map": "/AnimatedSorter/static/css/main.5fbb40f9.css.map",
-    "main.e8b9fc19.js.map": "/AnimatedSorter/static/js/main.e8b9fc19.js.map",
-    "453.36933aed.chunk.js.map": "/AnimatedSorter/static/js/453.36933aed.chunk.js.map"
+    "main.css": "/Content_Creation_Techligence/static/css/main.5fbb40f9.css",
+    "main.js": "/Content_Creation_Techligence/static/js/main.a4ff4e20.js",
+    "static/js/453.36933aed.chunk.js": "/Content_Creation_Techligence/static/js/453.36933aed.chunk.js",
+    "index.html": "/Content_Creation_Techligence/index.html",
+    "main.5fbb40f9.css.map": "/Content_Creation_Techligence/static/css/main.5fbb40f9.css.map",
+    "main.a4ff4e20.js.map": "/Content_Creation_Techligence/static/js/main.a4ff4e20.js.map",
+    "453.36933aed.chunk.js.map": "/Content_Creation_Techligence/static/js/453.36933aed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fbb40f9.css",
-    "static/js/main.e8b9fc19.js"
+    "static/js/main.a4ff4e20.js"
   ]
 }
